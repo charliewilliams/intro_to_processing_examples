@@ -1,3 +1,0 @@
- -Xms64m -Xmx1024m
-FloatingBubbles_5Dec2010
-FloatingBubbles_5Dec2010.jar,core.jar,opengl.jar,jogl.jar,gluegen-rt.jar,OpenCV.jar,jl1.0.jar,jsminim.jar,minim-spi.jar,minim.jar,mp3spi1.9.4.jar,tritonus_aos.jar,tritonus_share.jar,jl1.0.jar,jsminim.jar,minim-spi.jar,minim.jar,mp3spi1.9.4.jar,tritonus_aos.jar,tritonus_share.jar
